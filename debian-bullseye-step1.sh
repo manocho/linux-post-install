@@ -16,4 +16,4 @@ sudo apt update && sudo apt -y upgrade
 sudo apt install mc htop net-tools firmware-realtek firmware-misc-nonfree
 
 # Instalando docker
-sudo apt-get install ca-certificates curl gnupgfile_location="/usr/src/node-red/node_modules/node-red/settings.js"
+sudo apt-get install ca-certificates curl gnupg"
